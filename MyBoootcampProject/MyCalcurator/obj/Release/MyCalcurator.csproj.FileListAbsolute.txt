@@ -1,0 +1,12 @@
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\bin\Release\MyCalcurator.exe.config
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\bin\Release\MyCalcurator.exe
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\bin\Release\MyCalcurator.pdb
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\obj\Release\MyCalcurator.csproj.AssemblyReference.cache
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\obj\Release\MyCalcurator.Form1.resources
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\obj\Release\MyCalcurator.Form2.resources
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\obj\Release\MyCalcurator.калькулятор.resources
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\obj\Release\MyCalcurator.Properties.Resources.resources
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\obj\Release\MyCalcurator.csproj.GenerateResource.cache
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\obj\Release\MyCalcurator.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\obj\Release\MyCalcurator.exe
+C:\Users\student\Documents\перфилкин андрей\MyBoootcampProject\MyCalcurator\obj\Release\MyCalcurator.pdb
